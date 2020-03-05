@@ -1,4 +1,4 @@
-# Programming exercise #1
+# Interface for the CoinGecko and Glassnode APIs
 
 ### Crypto Stats
 Statistics for selected crypto currencies - BTC, ETH, LTC, BCH
