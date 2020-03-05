@@ -23,12 +23,9 @@ And then run: `./run.py [date(%d-%m-%Y)] [display_currency(usd,native)]`
 - price (close time for UTC)
 - change (24h)
 - 24h volume
-- circulating supply
-- max supply
 
 #### Onchain data:
 - average fee for tx
-- num of nodes
 - num of active addresses
 - average num of txs/24h
 - average size of single tx/24h
